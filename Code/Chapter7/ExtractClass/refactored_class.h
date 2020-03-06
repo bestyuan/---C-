@@ -58,20 +58,9 @@ class Person{
 };
 
 
-Person::Person(std::string name,
-							 std::string officeareacode,
-							 std::string officenumber)
-	:name_(name),
-	 officetelephone_(new TelephoneNumber(officeareacode,officenumber)){};
 
-Person::~Person(){
-	delete officetelephone_;
-	officetelephone_ = NULL;
-}
 
-TelephoneNumber::TelephoneNumber(std::string officeareacode,
-																 std::string officenumber)
-	:officeareacode_(officeareacode),officenumber_(officenumber){}
+
 
 
 #endif // REFACTORING_EXTRACTCLASS_REFACTORED_CLASS_H_

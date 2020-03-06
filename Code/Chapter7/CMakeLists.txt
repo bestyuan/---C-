@@ -1,1 +1,2 @@
 add_subdirectory(ExtractClass)
+add_subdirectory(HideDelegate)

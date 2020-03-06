@@ -6,3 +6,4 @@ file(GLOB MAIN_SRCS
  "*.cc")
 
 add_executable(ExtractClass ${MAIN_SRCS})
+set_target_properties(ExtractClass PROPERTIES FOLDER "Chapter7")
