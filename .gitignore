@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# File
+**/build-2013-x64
