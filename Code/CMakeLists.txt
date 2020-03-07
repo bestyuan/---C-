@@ -1,1 +1,2 @@
 add_subdirectory(Chapter7)
+add_subdirectory(Chapter8)

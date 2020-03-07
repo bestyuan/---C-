@@ -33,3 +33,6 @@
 
 # File
 **/build-2013-x64
+
+**/*.txt
+*.txt
