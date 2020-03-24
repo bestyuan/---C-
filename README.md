@@ -4,3 +4,4 @@
 
 ## 目录
 [第七章](https://github.com/bestyuan/Refactoring/tree/master/Code/Chapter7)   在对象之间搬移特性
+[第八章](https://github.com/bestyuan/Refactoring/tree/master/Code/Chapter8)  重新组织数据
